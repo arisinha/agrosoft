@@ -1,7 +1,8 @@
 :root{
-  --color1: rgb(219,144,.5);
+  --color1: rgb(27, 70, 23);
   --color2: rgba(23, 180, 83, 0.877);
   --color3: rgba(11,194,211, 0.623);
+  --color4: rgba(13, 48, 27, 0.877);
   --fondo: #f2f2f2;
   --titulos: 33px;
   --margenes: 60px;
@@ -194,7 +195,7 @@ nav .enlaces a:hover{
 .contenedor p{
   font-size: var(--subtitulos);
   font-weight: 300;
-  color: var(--color1);
+  color: var(--color4);
 }
 
 .after::after{
