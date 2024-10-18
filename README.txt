@@ -16,7 +16,7 @@ Tecnologías Utilizadas
 
 Frontend: HTML5, CSS3, JavaScript (React.js)
 Backend: Node.js con Express
-Base de Datos: MongoDB para el almacenamiento de productos y órdenes.
+Base de Datos: MySQL para el almacenamiento de productos y órdenes.
 Pasarela de Pago: Integración con PayPal y Stripe.
 Autenticación: Implementación de autenticación segura con JWT para clientes registrados.
 
