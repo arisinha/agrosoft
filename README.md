@@ -24,10 +24,10 @@ Contribuir
 
 Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-    _         _     _       _           __  __ 
-   / \   _ __(_)___(_)_ __ | |__   __ _|  \/  |
-  / _ \ | '__| / __| | '_ \| '_ \ / _` | |\/| |
- / ___ \| |  | \__ \ | | | | | | | (_| | |  | |
-/_/   \_\_|  |_|___/_|_| |_|_| |_|\__,_|_|  |_|
+        _         _     _       _           __  __ 
+       / \   _ __(_)___(_)_ __ | |__   __ _|  \/  |
+      / _ \ | '__| / __| | '_ \| '_ \ / _` | |\/| |
+     / ___ \| |  | \__ \ | | | | | | | (_| | |  | |
+    /_/   \_\_|  |_|___/_|_| |_|_| |_|\__,_|_|  |_|
